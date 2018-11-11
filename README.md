@@ -15,6 +15,10 @@ https://www.figma.com/file/I2OLo93qR9KUSPOAAqcOIQy9/clean_and_simple_website_fre
 **contact button:**
 - is a mailto: link to info@botanistbar.com
 
+**use font awesome for social icons:**
+-https://fontawesome.com/
+
+
 **open table widget**
 -https://www.opentable.com/widget/reservation/preview?rid=412810&language=en-US&domainId=1&countryCode=US
 
